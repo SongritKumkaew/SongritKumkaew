@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Songrit Kumkaew
+# Hi there 👋, I's Songrit Kumkaew
 
 **IT Enthusiast & Web Developer** 💻 
 
@@ -18,9 +18,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SongritKumkaew&show_icons=true&theme=radical&hide_border=true" alt="Songrit's GitHub Stats" />
 </p>
